@@ -13,7 +13,7 @@
 ![](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 -->
 
-- <a href="https://www.patreon.com/join/MahmoudMohasseb?"><img src="https://img.itch.zone/aW1nLzExNTU5MzAucG5n/original/0EkgqK.png" width="30px" height="30px"/></a>
+<a href="https://www.patreon.com/join/MahmoudMohasseb?"><img src="https://img.itch.zone/aW1nLzExNTU5MzAucG5n/original/0EkgqK.png" width="30px" height="30px"/></a>
 
 
 
