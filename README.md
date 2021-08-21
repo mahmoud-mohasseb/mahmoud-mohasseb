@@ -12,7 +12,7 @@
 
 ![mahmoud-mohasseb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoud-mohasseb&show_icons=true&theme=dark&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
  <a href="https://www.patreon.com/join/MahmoudMohasseb?"><img src="https://img.itch.zone/aW1nLzExNTU5MzAucG5n/original/0EkgqK.png" width="320px" height="100px"/></a> 
