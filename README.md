@@ -16,9 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mohasseb&layout=compact&theme=dark)](https://github.com/mahmoud-mohasseb/github-readme-stats)
 
 
- <a href="https://www.patreon.com/join/MahmoudMohasseb?"><img src="https://img.itch.zone/aW1nLzExNTU5MzAucG5n/original/0EkgqK.png" width="320px" height="100px"/></a> 
+<!--  <a href="https://www.patreon.com/join/MahmoudMohasseb?"><img src="https://img.itch.zone/aW1nLzExNTU5MzAucG5n/original/0EkgqK.png" width="320px" height="100px"/></a>  -->
  
-  <a href="https://www.buymeacoffee.com/mahmoudmohasseb"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="320px" height="100px"/></a> 
+<!--   <a href="https://www.buymeacoffee.com/mahmoudmohasseb"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="320px" height="100px"/></a>  -->
 
  
 
