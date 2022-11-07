@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ghareb4@gmail.com**
 
-- ⚡ Fun fact **Nowadays, there are over 700 different programming**
+- ⚡ Fun fact **Nowadays,😂 😂 😂 There is BIG money in coding 😂 😂 😂 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
